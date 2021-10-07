@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.java.james.Display">
+  <grid id="27dc6" binding="panel" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="3198" height="2058"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="f2869" class="javax.swing.JLabel" binding="label0">
+        <constraints/>
+        <properties>
+          <icon value="com/java/james/WhatsApp Image 2021-09-17 at 13.56.12.jpeg"/>
+          <text value=""/>
+        </properties>
+        <clientProperties>
+          <html.disable class="java.lang.Boolean" value="false"/>
+        </clientProperties>
+      </component>
+      <component id="40cb4" class="javax.swing.JLabel" binding="label1">
+        <constraints/>
+        <properties>
+          <icon value="com/java/james/WhatsApp Image 2021-08-17 at 09.48.07.jpeg"/>
+          <text value=""/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
